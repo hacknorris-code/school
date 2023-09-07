@@ -5,6 +5,8 @@ repo: school # The name of this repository
 sites:
   - name: school
     url: https://schooltoo.hacknorris.repl.co
+  - name: school2
+    url: https://school-four.hacknorris.repl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
