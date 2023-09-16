@@ -22,7 +22,7 @@
     "url": "https://school-four.hacknorris.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/school-four.hacknorris.repl.co.ico",
     "slug": "school2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 287,
     "timeMonth": 286,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-16": 0
+    }
   }
 ]
