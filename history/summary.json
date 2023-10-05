@@ -4,9 +4,9 @@
     "url": "https://schooltoo.hacknorris.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/schooltoo.hacknorris.repl.co.ico",
     "slug": "school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 300,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 0
+    }
   },
   {
     "name": "school2",
     "url": "https://school-four.hacknorris.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/school-four.hacknorris.repl.co.ico",
     "slug": "school2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 260,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 0
+    }
   }
 ]
