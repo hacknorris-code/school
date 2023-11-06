@@ -12,8 +12,8 @@
     "uptimeYear": "99.96%",
     "time": 401,
     "timeDay": 279,
-    "timeWeek": 358,
-    "timeMonth": 479,
+    "timeWeek": 372,
+    "timeMonth": 488,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2023-10-05": 32
@@ -24,18 +24,19 @@
     "url": "https://school-four.hacknorris.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/school-four.hacknorris.repl.co.ico",
     "slug": "school2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 409,
     "timeDay": 322,
-    "timeWeek": 319,
-    "timeMonth": 382,
+    "timeWeek": 322,
+    "timeMonth": 383,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2023-11-06": 0,
       "2023-10-05": 32
     }
   }
