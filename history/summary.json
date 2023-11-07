@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 401,
-    "timeDay": 279,
-    "timeWeek": 372,
-    "timeMonth": 488,
-    "timeYear": 401,
+    "time": 399,
+    "timeDay": 286,
+    "timeWeek": 352,
+    "timeMonth": 485,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2023-10-05": 32
     }
@@ -26,17 +26,16 @@
     "slug": "school2",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 408,
-    "timeDay": 297,
-    "timeWeek": 315,
+    "time": 407,
+    "timeDay": 314,
+    "timeWeek": 303,
     "timeMonth": 380,
-    "timeYear": 408,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-11-06": 5,
       "2023-10-05": 32
     }
   }
